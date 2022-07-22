@@ -7,4 +7,7 @@
 
 ## *Kodlarım*
 
-*
+*![Birinci Sayfa](1.PNG)
+
+*![İkinci Sayfa](2.PNG)
+
